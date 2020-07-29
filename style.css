@@ -1,0 +1,19 @@
+h3 {
+    width: 180px;
+    text-align: center;
+    margin: 4px;
+  }
+  
+  #left {
+    color: blue;
+  }
+  #right {
+    color: red;
+  }
+  
+  .CSc {
+    position: absolute;
+    top: 15%;
+    left: 0%;
+  }
+  
